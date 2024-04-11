@@ -29,7 +29,7 @@ print(c)
 ```
 
 ## Output:
-![Screenshot 2024-04-05 114602](https://github.com/KrishnaPrasad148/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147332763/e6c11d83-375d-4a66-9329-7bb6d5f35ed3)
+![image](https://github.com/KrishnaPrasad148/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147332763/a2e7c445-c480-468a-b744-522f1da76183)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
